@@ -1,0 +1,8 @@
+
+#
+# Project configuration file for
+# newthesis
+
+projectname: newthesis
+vendorid: com.mycompany
+mainmodule: com.mycompany.newthesis
